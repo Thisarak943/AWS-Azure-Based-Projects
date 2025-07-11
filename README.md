@@ -26,7 +26,7 @@ What I Learned:
 Tools & Technologies Used:
 - AWS: EC2, S3, EKS, ECS, RDS, IAM, CloudWatch, Secrets Manager, CodePipeline, Route 53
 - DevOps: Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Helm, Prometheus, Grafana
-- OS & Infra: Linux (Ubuntu), Nginx, Git, Bash
+- OS & Infra: Linux (Ubuntu,RHEL), Nginx, Git, Bash
 
 This repository showcases my hands-on experience with modern cloud-native DevOps workflows using AWS. It is intended as a learning reference and a demonstration of practical skills for DevOps and Cloud Engineering roles.
 
